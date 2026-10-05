@@ -209,7 +209,7 @@ Adding a new notification type means declaring an event record. Storage, countin
 ### 1. Clone
 
 ```bash
-git clone -b Development https://github.com/seyoufi22/WearCast.git
+git clone https://github.com/AL70SSAIN/WearCast.git
 cd WearCast/WearCast.Api
 ```
 
