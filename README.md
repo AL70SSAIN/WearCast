@@ -21,7 +21,6 @@ This repository is the backend: an **ASP.NET Core Web API (.NET 10)** with about
 - [Architecture](#architecture)
 - [Tech stack](#tech-stack)
 - [Getting started](#getting-started)
-- [Team](#team)
 
 ---
 
